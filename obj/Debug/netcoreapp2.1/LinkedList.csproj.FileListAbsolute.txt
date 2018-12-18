@@ -1,0 +1,11 @@
+C:\Users\Ispolin\source\repos\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.deps.json
+C:\Users\Ispolin\source\repos\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.json
+C:\Users\Ispolin\source\repos\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.dev.json
+C:\Users\Ispolin\source\repos\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.dll
+C:\Users\Ispolin\source\repos\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.pdb
+C:\Users\Ispolin\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.csprojAssemblyReference.cache
+C:\Users\Ispolin\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Ispolin\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfoInputs.cache
+C:\Users\Ispolin\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfo.cs
+C:\Users\Ispolin\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.dll
+C:\Users\Ispolin\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.pdb
